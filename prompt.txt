@@ -1,1 +1,1 @@
-Portrait of {PROMPT}, windows with stained glass, sunlight, euphoria, holy
+Portrait of {PROMPT}, windows with stained glass, chapel
