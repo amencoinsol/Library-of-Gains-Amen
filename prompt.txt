@@ -1,1 +1,1 @@
-Portrait of {PROMPT}, chapel stained glass
+Portrait of {PROMPT}, lights stained glass, big room
