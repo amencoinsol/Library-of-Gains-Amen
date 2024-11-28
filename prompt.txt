@@ -1,1 +1,1 @@
-Portrait of {PROMPT}, stained glass, chapel, church, holy style, crypto
+Portrait of {PROMPT}, chapel stained glass
