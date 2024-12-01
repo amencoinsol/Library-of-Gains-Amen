@@ -1,1 +1,1 @@
-{PROMPT}, windows with stained glass, chapel, holy theme
+{PROMPT}, chapel, holy theme
