@@ -1,1 +1,1 @@
-{PROMPT}, chapel, holy theme
+{PROMPT}, holy theme
