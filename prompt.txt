@@ -1,1 +1,1 @@
-{PROMPT}, holy theme, WINDOWS WITH STAINED GLASS
+{PROMPT}, holy theme,chapel
