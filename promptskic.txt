@@ -1,1 +1,1 @@
-{PROMPT}, cryptocurrencies, gangster theme, black eyes, wide shot $glasses, hat$ 
+{PROMPT}, cryptocurrencies black eyes, wide shot, $glasses, hat, mask$
