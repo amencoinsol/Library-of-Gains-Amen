@@ -1,1 +1,1 @@
-{PROMPT}, do not have glasses in, do not wear a hat, cryptocurrencies, gangster theme, black eyes, wide shot
+{PROMPT}, cryptocurrencies, gangster theme, black eyes, wide shot $glasses, hat$ 
