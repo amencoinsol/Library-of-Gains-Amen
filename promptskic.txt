@@ -1,1 +1,1 @@
-{PROMPT}, a cat wearing a ski mask,cryptocurrencies, black eyes, wide shot, $glasses, hat, mask$
+{PROMPT}, people, one cat wearing a ski mask,cryptocurrencies, black eyes, wide shot, $glasses, hat, mask$
