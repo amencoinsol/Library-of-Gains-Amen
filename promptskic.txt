@@ -1,1 +1,1 @@
-{PROMPT}, photorealistic, cryptocurrencies, gangster theme
+{PROMPT}, cryptocurrencies, gangster theme, black eyes
