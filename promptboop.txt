@@ -1,1 +1,1 @@
-{PROMPT}, cartoon drawing style
+{PROMPT}
